@@ -2,7 +2,7 @@
 
 Meme Generator is extremely easy to use. The layout of the site is very straight-forward. As for creating memes, the user can only change the image and the text so you don’t have anything to worry about in terms of formatting or design.
 
-## How to use Meme Generator:
+## How to use Meme Maker:
 
 1. Click on the Random Meme button and an image will pop up.
 2. Fill in the box for “TOP TEXT” and/or “BOTTOM TEXT” and you will immediately see a preview of what your image will look like.
