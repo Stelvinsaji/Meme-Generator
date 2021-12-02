@@ -1,6 +1,6 @@
 ## Link: https://memes-making.netlify.app/
 
-Meme Generator is extremely easy to use. The layout of the site is very straight-forward. As for creating memes, the user can only change the image and the text so you don’t have anything to worry about in terms of formatting or design.
+Meme MMaker is extremely easy to use. The layout of the site is very straight-forward. As for creating memes, the user can only change the image and the text so you don’t have anything to worry about in terms of formatting or design.
 
 ## How to use Meme Maker:
 
